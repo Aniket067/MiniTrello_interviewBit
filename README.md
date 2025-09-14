@@ -65,7 +65,6 @@ JWT_SECRET_KEY=your_jwt_secret_key
 NEXT_PUBLIC_UNSPLASH_API=your_unsplash_access_key
 ```
 
-\</details\>
 
 > ⚠️ Replace placeholder values with your actual credentials.
 
@@ -124,6 +123,22 @@ Visit [http://localhost:3000](https://www.google.com/search?q=http://localhost:3
   * Implement comments & activity log
   * Add role-based access and invites
   * Add due dates, labels, and assignees
+
+-----
+🗄️ Database Schema Overview
+Collections:
+
+Users: { _id, name, email, passwordHash, avatar }
+
+Workspaces: { _id, name, ownerId, members[] }
+
+Boards: { _id, title, workspaceId, imageUrl, visibility }
+
+Lists: { _id, title, boardId, position }
+
+Cards: { _id, title, description, listId, position }
+
+Comments: { _id, cardId, content, authorId }
 
 -----
 
