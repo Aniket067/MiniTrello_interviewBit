@@ -128,7 +128,10 @@ Visit [http://localhost:3000](https://www.google.com/search?q=http://localhost:3
 -----
 
 ## 📸 Screenshots
+<img width="1905" height="1062" alt="Screenshot 2025-09-14 173919" src="https://github.com/user-attachments/assets/18bf64f1-1cda-4fea-9759-35282b9d229e" />
 
 
+<img width="1909" height="1069" alt="Screenshot 2025-09-14 173930" src="https://github.com/user-attachments/assets/b73b8e07-92a7-44ac-b27c-4c8b685f8f94" />
 
 -----
+<img width="1919" height="1079" alt="Screenshot 2025-09-14 174002" src="https://github.com/user-attachments/assets/366418df-d7c6-4a65-b11d-122974aa7100" />
